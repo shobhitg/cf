@@ -1,0 +1,8 @@
+{
+  "name": "my-first-component",
+  "dependencies": {
+    "necolas/normalize.css": "^3.0.2"
+  },
+  "scripts": ["index.js"],
+  "styles": ["index.css"]
+}
