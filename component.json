@@ -1,8 +1,14 @@
 {
   "name": "my-first-component",
   "dependencies": {
-    "necolas/normalize.css": "^3.0.2"
+    "necolas/normalize.css": "^3.0.2",
+    "mbostock/d3": "^3.5.5",
+    "square/crossfilter": "^1.3.11"
   },
-  "scripts": ["index.js"],
-  "styles": ["index.css"]
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "index.css"
+  ]
 }
